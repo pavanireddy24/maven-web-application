@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.109.123.241:9980/chanakyatechnology/repository/wallmart2-release/</url>
+	      <url>http://52.66.138.178:9980/chanakyatechnologies/repository/chanakya-release//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.109.123.241:9980/chanakyatechnology/repository/wallmart2-snapshot/</url>
+	      <url>http://52.66.138.178:9980/chanakyatechnologies/repository/chanakya-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
